@@ -1,0 +1,6 @@
+controlador\ProcesarEficiencia.class
+controlador\ProcesarSolvencia.class
+com\miuniverisdad\finanzasweb\JakartaRestConfiguration.class
+com\miuniverisdad\finanzasweb\resources\JakartaEE11Resource.class
+controlador\ProcesarRentabilidad.class
+controlador\ProcesarLiquidez.class
